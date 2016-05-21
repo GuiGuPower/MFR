@@ -1,5 +1,5 @@
-public class HW{
+ï»¿public class HW{
 	public static void main(String[] arges){
-		System.out.println("ÄãºÃ,GitHup!");
+		System.out.println("ä½ å¥½,GitHup!");
 	}
 }
